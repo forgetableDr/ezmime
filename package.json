@@ -1,6 +1,6 @@
 {
   "name": "ezmime",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Clean and fast filename-to-mime converter",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,6 @@
     "util",
     "file",
     "types"
-  ]
+  ],
+  "homepage": "https://github.com/forgetableDr/ezmime"
 }
